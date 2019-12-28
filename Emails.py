@@ -3,7 +3,7 @@ import smtplib
 
 
 SenderAddress = "siddhikulkarni.96@gmail.com"
-password = "asambhav123"
+password = " "
 
 
 e = pd.read_csv('C:/Users/User/Desktop/Email_id.csv')
